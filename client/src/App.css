@@ -1,0 +1,27 @@
+.table{
+    border-radius: 2px solid black;
+}
+.card-size{
+    height: 50%;
+}
+.image-size
+{
+    height:250px;
+}
+
+.full-color{
+    background-color:black;
+    
+}
+.link-deco{
+    text-decoration: none;
+}
+.backgroundcolor-hrdashboard{
+    background-image: linear-gradient(#bdc3c7,#2c3e50);
+}
+.card-color-background{
+    background-image: linear-gradient(#2c3e50,#bdc3c7);
+}
+.bgcolorhrstudentdetail{
+    background-image: linear-gradient(#00416a,#e4e5e6);
+}
