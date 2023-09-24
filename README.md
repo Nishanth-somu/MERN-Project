@@ -4,7 +4,8 @@
 ### Languages Used : JS, ReactJS, NodeJS, MySQL
 
 ## Layout-1 : Register Page
-![image](https://github.com/Nishanth-somu/MERN-Project/assets/138356011/a8d281ce-4291-4905-b7ee-09f32d89cb0a)
+![image](https://github.com/Nishanth-somu/MERN-Project/assets/138356011/e3de64f3-1173-45e3-b724-eb320810a1ce)
+
 
 
 ## Layout-2: Login Page
